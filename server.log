@@ -1,0 +1,224 @@
+
+  ♻  Smart Waste Management System
+  ➜  Local:   http://localhost:3000
+
+GET /api/health
+GET /api/notifications/unread-count
+GET /api/auth/me
+GET /api/admin/reports
+GET /api/admin/workers
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+POST /api/admin/reports/WM1004/assign
+
+================================================================
+[WORKER DISPATCH CREATED] Admin (admin@smartwms.gov) assigned #WM1004 to worker Sunil Gowda <worker.sunil@smartwms.gov>
+📌  Subject: 📋 [SmartWMS Work Order] New Task Assigned: #WM1004 - Fallen leaves and plastic trash blocking drain
+📍  Location: 1st Main, 7th Block, Koramangala (12.9318, 77.6189)
+👤  Complainant: Arun Kumar (+91 98450 12345)
+[mailer] SMTP is not configured. Assignment is available in the worker portal mailbox only; configure GMAIL_USER and GMAIL_APP_PASSWORD in .env to send real email.
+================================================================
+
+GET /api/admin/reports
+GET /api/admin/workers
+GET /api/admin/notifications
+GET /api/notifications/unread-count
+GET /api/admin/stats
+GET /api/admin/analytics
+GET /api/admin/reports
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/admin/reports
+GET /api/admin/workers
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+POST /api/admin/reports/WM1004/assign
+
+================================================================
+[WORKER DISPATCH CREATED] Admin (admin@smartwms.gov) assigned #WM1004 to worker Sunil Gowda <worker.sunil@smartwms.gov>
+📌  Subject: 📋 [SmartWMS Work Order] New Task Assigned: #WM1004 - Fallen leaves and plastic trash blocking drain
+📍  Location: 1st Main, 7th Block, Koramangala (12.9318, 77.6189)
+👤  Complainant: Arun Kumar (+91 98450 12345)
+[mailer] SMTP is not configured. Assignment is available in the worker portal mailbox only; configure GMAIL_USER and GMAIL_APP_PASSWORD in .env to send real email.
+================================================================
+
+GET /api/admin/reports
+GET /api/admin/workers
+GET /api/notifications/unread-count
+GET /api/admin/analytics
+GET /api/notifications/unread-count
+GET /api/admin/notifications
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+POST /api/auth/login
+POST /api/admin/reports/WM1004/assign
+
+================================================================
+[WORKER DISPATCH CREATED] Admin (admin@smartwms.gov) assigned #WM1004 to worker Sunil Gowda <worker.sunil@smartwms.gov>
+📌  Subject: 📋 [SmartWMS Work Order] New Task Assigned: #WM1004 - Fallen leaves and plastic trash blocking drain
+📍  Location: 1st Main, 7th Block, Koramangala (12.9318, 77.6189)
+👤  Complainant: Arun Kumar (+91 98450 12345)
+[mailer] SMTP is not configured. Assignment is available in the worker portal mailbox only; configure GMAIL_USER and GMAIL_APP_PASSWORD in .env to send real email.
+================================================================
+
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/admin/notifications
+GET /api/admin/reports
+GET /api/admin/workers
+GET /api/notifications/unread-count
+POST /api/admin/reports/WM1011/assign
+
+================================================================
+[WORKER DISPATCH CREATED] Admin (admin@smartwms.gov) assigned #WM1011 to worker haritha <24b21a4304@kietgroup.com>
+📌  Subject: 📋 [SmartWMS Work Order] New Task Assigned: #WM1011 - Construction debris on footpath
+📍  Location: 8, Church Street, Bengaluru (12.9755, 77.6067)
+👤  Complainant: Priya Sharma (+91 98765 43210)
+[mailer] SMTP is not configured. Assignment is available in the worker portal mailbox only; configure GMAIL_USER and GMAIL_APP_PASSWORD in .env to send real email.
+================================================================
+
+GET /api/admin/reports
+GET /api/admin/workers
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/auth/me
+GET /api/admin/notifications
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/auth/me
+GET /api/admin/notifications
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/health
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/auth/me
+GET /api/public-stats
+GET /api/auth/me
+GET /api/public-stats
+GET /api/auth/me
+GET /api/public-stats
+GET /api/admin/stats
+GET /api/admin/analytics
+GET /api/admin/reports
+GET /api/admin/reports
+GET /api/admin/workers
+POST /api/admin/reports/WM1011/assign
+
+================================================================
+[WORKER DISPATCH CREATED] Admin (admin@smartwms.gov) assigned #WM1011 to worker haritha <24b21a4304@kietgroup.com>
+📌  Subject: 📋 [SmartWMS Work Order] New Task Assigned: #WM1011 - Construction debris on footpath
+📍  Location: 8, Church Street, Bengaluru (12.9755, 77.6067)
+👤  Complainant: Priya Sharma (+91 98765 43210)
+[mailer] SMTP is not configured. Assignment is available in the worker portal mailbox only; configure GMAIL_USER and GMAIL_APP_PASSWORD in .env to send real email.
+================================================================
+
+GET /api/admin/reports
+GET /api/admin/workers
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/admin/workers
+GET /api/notifications/unread-count
+PATCH /api/admin/workers/16
+GET /api/admin/workers
+GET /api/notifications/unread-count
+DELETE /api/admin/workers/16
+GET /api/admin/workers
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/auth/me
+GET /api/public-stats
+GET /api/notifications/unread-count
+GET /api/notifications/unread-count
+GET /api/auth/me
+GET /api/public-stats
+GET /api/public-stats
+GET /api/admin/stats
+GET /api/admin/analytics
+GET /api/admin/reports
+GET /api/notifications/unread-count
+GET /api/admin/reports
+GET /api/admin/workers
+GET /api/notifications/unread-count
+POST /api/admin/reports/WM1011/assign
+
+================================================================
+[WORKER DISPATCH CREATED] Admin (admin@smartwms.gov) assigned #WM1011 to worker durgi <pedapudidurgabhavani074@gmail.com>
+📌  Subject: 📋 [SmartWMS Work Order] New Task Assigned: #WM1011 - Construction debris on footpath
+📍  Location: 8, Church Street, Bengaluru (12.9755, 77.6067)
+👤  Complainant: Priya Sharma (+91 98765 43210)
+[mailer] SMTP is not configured. Assignment is available in the worker portal mailbox only; configure GMAIL_USER and GMAIL_APP_PASSWORD in .env to send real email.
+================================================================
+
+GET /api/admin/reports
+GET /api/admin/workers
+GET /api/notifications/unread-count
+POST /api/auth/logout
+GET /api/public-stats
+GET /api/public-stats
+GET /api/auth/me
+GET /api/public-stats
